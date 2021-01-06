@@ -8,7 +8,7 @@ Install PHP 7.4.13 and these PHP extensions (which are installed and enabled by 
 Install Composer, which is used to install PHP packages.<br />
 Optionally, you can also install Symfony CLI. This creates a binary called symfony that provides all the tools you need to develop and run your Symfony application locally.<br />
 <br />
-Before installation make sure what you have installed git/composer<br />
+Before installation make sure that you have installed git/composer<br />
 <br />
 Installation<br />
 cd ~/ <br />
